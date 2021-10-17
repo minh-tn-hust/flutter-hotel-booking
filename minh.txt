@@ -1,0 +1,251 @@
+Folder PATH listing for volume Acer
+Volume serial number is 6E3B-1F81
+C:\USERS\MINHT\DESKTOP\FLUTTER_PROJECT-MAIN\FLUTTER_PROJECT\LIB
+¦   constraint.dart
+¦   generated_plugin_registrant.dart
+¦   main.dart
+¦   role.dart
+¦   user_frame.dart
+¦   
++---admin
+¦   ¦   admin_frame.dart
+¦   ¦   
+¦   +---CheckHotel
+¦       ¦   check_hotel.dart
+¦       ¦   host_tab.dart
+¦       ¦   
+¦       +---widget
+¦               reivew_hotel.dart
+¦               room_review.dart
+¦               
++---host
+¦   ¦   host_frame.dart
+¦   ¦   
+¦   +---add_hotel
+¦   ¦   ¦   add_hotel.dart
+¦   ¦   ¦   get_info.dart
+¦   ¦   ¦   
+¦   ¦   +---add_room
+¦   ¦   ¦   ¦   add_room.dart
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---get_room_info
+¦   ¦   ¦           get_room_info.dart
+¦   ¦   ¦           
+¦   ¦   +---Widget
+¦   ¦       ¦   host_add_bar.dart
+¦   ¦       ¦   
+¦   ¦       +---Add
+¦   ¦       ¦       add_hotel_amenities.dart
+¦   ¦       ¦       add_hotel_description.dart
+¦   ¦       ¦       add_hotel_image.dart
+¦   ¦       ¦       add_hotel_location.dart
+¦   ¦       ¦       add_hotel_type.dart
+¦   ¦       ¦       
+¦   ¦       +---add_hotel_tab
+¦   ¦       ¦       add_hotel_tab.dart
+¦   ¦       ¦       
+¦   ¦       +---hotel_tab
+¦   ¦               hotel_tab.dart
+¦   ¦               
+¦   +---host_hotel_screen
+¦   ¦   ¦   host_hotel_screen.dart
+¦   ¦   ¦   
+¦   ¦   +---billing_screen
+¦   ¦           biling_tab.dart
+¦   ¦           billing_screen.dart
+¦   ¦           
+¦   +---host_room_info
+¦       ¦   host_hotel_room.dart
+¦       ¦   
+¦       +---widgets
+¦           ¦   room_or_hotel.dart
+¦           ¦   top_bar.dart
+¦           ¦   
+¦           +---hotel_info.dart
+¦           ¦   ¦   host_hotel_info.dart
+¦           ¦   ¦   
+¦           ¦   +---widgets
+¦           ¦       +---hotel_detail
+¦           ¦           ¦   hotel_detail.dart
+¦           ¦           ¦   
+¦           ¦           +---widgets
+¦           ¦                   edit_amenities.dart
+¦           ¦                   edit_image.dart
+¦           ¦                   edit_location.dart
+¦           ¦                   text_edit_dialog.dart
+¦           ¦                   
+¦           +---room_info.dart
+¦               ¦   host_room_info.dart
+¦               ¦   
+¦               +---widgets
+¦                       room_card.dart
+¦                       room_detail.dart
+¦                       
++---icons
+¦       icon_lib.dart
+¦       
++---models
+¦   ¦   test.dart
+¦   ¦   user.dart
+¦   ¦   
+¦   +---CustomerInfo
+¦   ¦       card_info.dart
+¦   ¦       custommerInfo.dart
+¦   ¦       
+¦   +---Firebase
+¦   ¦       firebase_service.dart
+¦   ¦       
+¦   +---HostInfo
+¦   ¦       host_info.dart
+¦   ¦       
+¦   +---HotelAndRoom
+¦   ¦       hotel.dart
+¦   ¦       hotel_room.dart
+¦   ¦       
+¦   +---HotelNotifi
+¦   ¦       hotel_notifi.dart
+¦   ¦       
+¦   +---HotelRegister
+¦   ¦       add_hotel_provider.dart
+¦   ¦       
+¦   +---LocationForMap
+¦   ¦       location.dart
+¦   ¦       
+¦   +---LoginState
+¦   ¦       auth_state.dart
+¦   ¦       
+¦   +---PaymentIntent
+¦   ¦       payment_intent.dart
+¦   ¦       
+¦   +---SearchInformation
+¦           search_info_model.dart
+¦           
++---user
+¦   +---screens
+¦       +---book_room
+¦       ¦   ¦   book_room.dart
+¦       ¦   ¦   
+¦       ¦   +---widgets
+¦       ¦           feature_row.dart
+¦       ¦           room_infor_card.dart
+¦       ¦           
+¦       +---home_screen
+¦       ¦   ¦   homescreen.dart
+¦       ¦   ¦   
+¦       ¦   +---widgets
+¦       ¦       +---recommended
+¦       ¦       ¦       recommended.dart
+¦       ¦       ¦       recommended_hotel.dart
+¦       ¦       ¦       
+¦       ¦       +---title_and_search
+¦       ¦               title_and_search.dart
+¦       ¦               
+¦       +---hotel_detail_screen
+¦       ¦   ¦   hotel_detail_screen.dart
+¦       ¦   ¦   
+¦       ¦   +---widgets
+¦       ¦       ¦   detail.dart
+¦       ¦       ¦   hotel_info.dart
+¦       ¦       ¦   static_map.dart
+¦       ¦       ¦   
+¦       ¦       +---image_preview
+¦       ¦               gallery_mode.dart
+¦       ¦               image_page.dart
+¦       ¦               image_preview.dart
+¦       ¦               
+¦       +---hotel_load_data
+¦       ¦       hotel_load_data.dart
+¦       ¦       
+¦       +---notifcation_screen
+¦       ¦   ¦   history_screen.dart
+¦       ¦   ¦   
+¦       ¦   +---widgets
+¦       ¦           history_tab.dart
+¦       ¦           
+¦       +---profile_screen
+¦       ¦   ¦   profile_screed.dart
+¦       ¦   ¦   
+¦       ¦   +---widgets
+¦       ¦           custom_card.dart
+¦       ¦           editable_tile.dart
+¦       ¦           header_information.dart
+¦       ¦           password_editor.dart
+¦       ¦           present_cards.dart
+¦       ¦           profile_screen_option.dart
+¦       ¦           
+¦       +---reservation
+¦       ¦   ¦   first_page.dart
+¦       ¦   ¦   third_page.dart
+¦       ¦   ¦   
+¦       ¦   +---third_page
+¦       ¦       ¦   third_page_2.dart
+¦       ¦       ¦   
+¦       ¦       +---widgets
+¦       ¦           ¦   card_detect.dart
+¦       ¦           ¦   pick_card.dart
+¦       ¦           ¦   
+¦       ¦           +---second_page
+¦       ¦               ¦   second_page.dart
+¦       ¦               ¦   
+¦       ¦               +---widgets
+¦       ¦                       update_customer_card.dart
+¦       ¦                       
+¦       +---search_screen
+¦           ¦   search_screen.dart
+¦           ¦   
+¦           +---widgets
+¦                   filter.dart
+¦                   hotel_filter.dart
+¦                   map_search.dart
+¦                   search_detail_listview.dart
+¦                   search_hotel_listview.dart
+¦                   search_info_bar.dart
+¦                   
++---widgets
+    ¦   app_bar_title.dart
+    ¦   cache_network_image.dart
+    ¦   test.dart
+    ¦   
+    +---back_button_and_title
+    ¦       back_button_and_title.dart
+    ¦       
+    +---container_icon
+    ¦       container_icon.dart
+    ¦       
+    +---custom_bottom_naviagate_bar
+    ¦       bottom_navigate_bar.dart
+    ¦       navigate_button.dart
+    ¦       
+    +---custom_button
+    ¦       custom_button.dart
+    ¦       
+    +---home_search_room
+    ¦   ¦   custom_dropdown_button.dart
+    ¦   ¦   home_search_room.dart
+    ¦   ¦   pick_date.dart
+    ¦   ¦   
+    ¦   +---pick_location
+    ¦           auto_complete_search.dart
+    ¦           pick_location.dart
+    ¦           
+    +---login_screen
+    ¦   ¦   login_screen.dart
+    ¦   ¦   
+    ¦   +---widgets
+    ¦           baned_screen.dart
+    ¦           forget_password.dart
+    ¦           login_form.dart
+    ¦           register_form.dart
+    ¦           
+    +---pick_image
+    ¦       pick_image.dart
+    ¦       
+    +---selected_button
+    ¦       selected_button.dart
+    ¦       
+    +---star_rate
+    ¦       star_rate.dart
+    ¦       
+    +---time_ago
+            time_ago.dart
+            

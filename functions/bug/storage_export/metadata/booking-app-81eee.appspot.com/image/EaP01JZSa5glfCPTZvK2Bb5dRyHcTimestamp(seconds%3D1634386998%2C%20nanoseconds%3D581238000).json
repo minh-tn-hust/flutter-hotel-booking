@@ -1,0 +1,19 @@
+{
+  "name": "image/EaP01JZSa5glfCPTZvK2Bb5dRyHcTimestamp(seconds=1634386998, nanoseconds=581238000)",
+  "bucket": "booking-app-81eee.appspot.com",
+  "contentType": "",
+  "metageneration": 1,
+  "generation": 1634386999030,
+  "storageClass": "STANDARD",
+  "etag": "someETag",
+  "contentDisposition": "inline",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "e5a2e3a2-16b5-4b80-af07-4298d39a99bb"
+  ],
+  "timeCreated": "2021-10-16T12:23:19.029Z",
+  "updated": "2021-10-16T12:23:19.042Z",
+  "size": 111127,
+  "md5Hash": "YIaUsVzZ0iZLMyUxr0k8yA==",
+  "crc32c": "3348706418"
+}

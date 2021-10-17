@@ -1,0 +1,7 @@
+đối với host những thứ mình cần làm
+- đăng kí tài khoản cho host, hiển thị thông tin tài khoản đã được accept để nhận thanh toán hay chưa
+- hiển thị các khách sạn mà hiện có của host
+- đối với mỗi khách sạn có thể
+	+ chỉnh sửa thông tin của khách sạn
+	+ add thêm thông tin về phòng của khách sạn
+	+ hiển thị các booking theo ngày, theo tên phòng của từng khác sạn
